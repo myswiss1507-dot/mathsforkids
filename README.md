@@ -30,7 +30,7 @@ An educational iOS app designed to help children aged 2-10 learn mathematics thr
 
 ## Privacy Policy
 
-[Privacy Policy](https://kaustubhmhalas.github.io/mathsforkids/privacy-policy.html)
+[Privacy Policy](https://myswiss1507-dot.github.io/mathsforkids/privacy-policy.html)
 
 ## License
 

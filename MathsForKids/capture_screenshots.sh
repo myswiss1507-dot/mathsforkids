@@ -1,0 +1,52 @@
+#!/bin/bash
+
+# Screenshot Capture Script for MathsForKids
+# This script helps capture screenshots for App Store submission
+
+echo "📸 MathsForKids Screenshot Capture Helper"
+echo "=========================================="
+echo ""
+echo "This script will help you capture screenshots for the App Store."
+echo ""
+echo "REQUIRED DEVICE SIZES:"
+echo "1. iPhone 15 Pro Max (6.7\") - 1290 x 2796"
+echo "2. iPhone 11 Pro Max (6.5\") - 1242 x 2688"
+echo "3. iPhone 8 Plus (5.5\") - 1242 x 2208"
+echo ""
+echo "STEPS:"
+echo "1. Open Xcode and run the app in Simulator"
+echo "2. Select the appropriate simulator size"
+echo "3. Navigate to each screen you want to capture"
+echo "4. Press Cmd+S in Simulator to save screenshot"
+echo "5. Screenshots save to ~/Desktop by default"
+echo ""
+echo "RECOMMENDED SCREENSHOTS (in order):"
+echo "  1. Welcome screen (with name/age selection)"
+echo "  2. Toddler mode gameplay"
+echo "  3. Early School mode gameplay"
+echo "  4. Older Kids mode gameplay"
+echo "  5. Parent Report screen"
+echo ""
+echo "SIMULATOR COMMANDS:"
+echo "  - Open Simulator: open -a Simulator"
+echo "  - Take Screenshot: Cmd+S"
+echo "  - Toggle Appearance: Cmd+Shift+A (light/dark mode)"
+echo ""
+echo "After capturing, you can:"
+echo "  - Add text overlays using Preview or design tools"
+echo "  - Highlight features with arrows/callouts"
+echo "  - Ensure screenshots show the app's best features"
+echo ""
+echo "Press Enter to open Simulator..."
+read
+
+open -a Simulator
+
+echo ""
+echo "✅ Simulator opened!"
+echo "Now run your app from Xcode and capture screenshots."
+echo ""
+echo "TIP: Capture in this order for best results:"
+echo "  1. iPhone 15 Pro Max (largest)"
+echo "  2. iPhone 11 Pro Max (medium)"
+echo "  3. iPhone 8 Plus (smallest)"

@@ -1,0 +1,125 @@
+/* 
+  Localizable.strings (Tamil)
+  Math for Kids - குழந்தைகளுக்கான கணிதம்
+*/
+
+// MARK: - App Title & Tagline
+"app.title" = "குழந்தைகளுக்கான கணிதம்";
+"app.tagline" = "கற்றல் • விளையாடு • வளர்";
+
+// MARK: - Welcome Screen
+"welcome.name.title" = "உங்கள் பெயர்";
+"welcome.name.placeholder" = "உங்கள் பெயரை உள்ளிடவும்";
+"welcome.gender.title" = "நான் ஒரு...";
+"welcome.age.title" = "என் வயது";
+"welcome.age.years" = "வயது";
+"welcome.swipe.hint" = "ஸ்வைப் செய்க";
+"welcome.start.button" = "கற்றலைத் தொடங்கு!";
+
+// MARK: - Gender
+"gender.boy" = "பையன்";
+"gender.girl" = "பெண்";
+
+// MARK: - Game Levels
+"level.toddler" = "சிறு குழந்தை";
+"level.earlyschool" = "ஆரம்ப பள்ளி";
+"level.olderkids" = "பெரிய குழந்தைகள்";
+
+// MARK: - Math Operations
+"operation.addition" = "கூட்டல்";
+"operation.subtraction" = "கழித்தல்";
+"operation.multiplication" = "பெருக்கல்";
+"operation.division" = "வகுத்தல்";
+
+// MARK: - Game Play
+"game.question" = "என்ன";
+"game.correct" = "சரி!";
+"game.wrong" = "மீண்டும் முயற்சிக்கவும்!";
+"game.welldone" = "நன்றாக செய்தீர்கள்!";
+"game.excellent" = "சிறப்பு!";
+"game.great" = "அருமையான வேலை!";
+"game.score" = "மதிப்பெண்";
+"game.streak" = "தொடர்ச்சி";
+"game.time" = "நேரம்";
+
+// MARK: - Buttons
+"button.continue" = "தொடரவும்";
+"button.retry" = "மீண்டும் முயற்சிக்கவும்";
+"button.home" = "முகப்பு";
+"button.next" = "அடுத்தது";
+"button.submit" = "சமர்ப்பிக்கவும்";
+
+// MARK: - Encouragement Messages
+"encouragement.youcanit" = "நீங்கள் செய்ய முடியும்!";
+"encouragement.almostthere" = "கிட்டத்தட்ட முடிந்தது!";
+"encouragement.keepgoing" = "தொடரவும்!";
+"encouragement.awesome" = "அருமை!";
+"encouragement.fantastic" = "அற்புதம்!";
+"encouragement.amazing" = "ஆச்சரியமானது!";
+
+// MARK: - Toddler Game
+"toddler.title" = "விலங்குகளை எண்ணுங்கள்!";
+"toddler.question" = "எத்தனை?";
+"toddler.success" = "🎉 அருமை! 🎉";
+
+// MARK: - Game Feedback
+"feedback.correct" = "சரி! 🌟";
+"feedback.wrong" = "மீண்டும் முயற்சிக்கவும்! 😅";
+
+// MARK: - Game UI
+"game.time.label" = "நேரம்";
+
+// MARK: - Appreciation Messages (Streaks)
+"appreciation.streak3" = "தொடர்ச்சியாக 3! 🔥";
+"appreciation.streak5" = "5 தொடர்! நீங்கள் அருமை! 🌟";
+"appreciation.streak10" = "10 தொடர்! நம்ப முடியாதது! 🎯";
+"appreciation.streak15" = "15 தொடர்! நீங்கள் நட்சத்திரம்! ⭐️";
+"appreciation.streak20" = "20 streak! Unstoppable! 🚀";
+"appreciation.streak_amazing" = "Amazing streak! Keep going! 💫";
+
+// MARK: - Parent Report
+"parent.report.title" = "Parent Report";
+"parent.report.summary" = "Summary";
+"parent.report.no_games" = "No games played yet.";
+"parent.report.total_sessions" = "Total Sessions";
+"parent.report.total_questions" = "Total Questions";
+"parent.report.accuracy" = "Accuracy";
+"parent.report.recent_history" = "Recent History";
+"parent.report.done" = "Done";
+"parent.report.share_title" = "Maths For Kids - Performance Report";
+"parent.report.generated_on" = "Generated on";
+"parent.report.summary_header" = "SUMMARY";
+"parent.report.recent_sessions_header" = "RECENT SESSIONS";
+"parent.report.duration" = "Duration";
+
+// MARK: - Speed Bonus
+"bonus.fast" = "⚡️ Fast! +2";
+
+// MARK: - Session Details
+"parent.report.details" = "Details";
+"parent.report.no_details" = "No details available.";
+"parent.report.correct_answer" = "Correct Answer";
+"parent.report.attempts" = "attempts";
+
+// MARK: - Feedback
+"feedback.subject" = "Maths For Kids - Feedback";
+"feedback.body" = "Please describe your feedback here...";
+"feedback.email_error_title" = "Email Not Configured";
+"feedback.email_error_message" = "Please configure an email account in Settings to send feedback.";
+
+// MARK: - Game Over
+"game.over.perfect" = "Perfect! 🏆";
+"game.over.excellent" = "Excellent! 🌟";
+"game.over.great" = "Great Job! 👏";
+"game.over.good" = "Good Try! 💪";
+"game.over.practice" = "Keep Practicing! 📚";
+"game.over.your_score" = "Your Score";
+"game.over.new_high_score" = "🎉 New High Score! 🎉";
+"game.over.play_again" = "Play Again";
+"game.over.exit" = "Exit";
+
+// MARK: - Score View
+"game.best" = "Best";
+
+// MARK: - General
+"button.ok" = "OK";

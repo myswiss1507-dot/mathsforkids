@@ -1,0 +1,125 @@
+/* 
+  Localizable.strings (Hindi)
+  Math for Kids - बच्चों के लिए गणित
+*/
+
+// MARK: - App Title & Tagline
+"app.title" = "बच्चों के लिए गणित";
+"app.tagline" = "सीखें • खेलें • बढ़ें";
+
+// MARK: - Welcome Screen
+"welcome.name.title" = "आपका नाम";
+"welcome.name.placeholder" = "अपना नाम लिखें";
+"welcome.gender.title" = "मैं हूँ...";
+"welcome.age.title" = "मेरी उम्र";
+"welcome.age.years" = "साल";
+"welcome.swipe.hint" = "स्वाइप करें";
+"welcome.start.button" = "सीखना शुरू करें!";
+
+// MARK: - Gender
+"gender.boy" = "लड़का";
+"gender.girl" = "लड़की";
+
+// MARK: - Game Levels
+"level.toddler" = "छोटे बच्चे";
+"level.earlyschool" = "प्रारंभिक स्कूल";
+"level.olderkids" = "बड़े बच्चे";
+
+// MARK: - Math Operations
+"operation.addition" = "जोड़";
+"operation.subtraction" = "घटाव";
+"operation.multiplication" = "गुणा";
+"operation.division" = "भाग";
+
+// MARK: - Game Play
+"game.question" = "क्या है";
+"game.correct" = "सही!";
+"game.wrong" = "फिर से कोशिश करें!";
+"game.welldone" = "बहुत अच्छा!";
+"game.excellent" = "उत्कृष्ट!";
+"game.great" = "शानदार काम!";
+"game.score" = "स्कोर";
+"game.streak" = "लगातार";
+"game.time" = "समय";
+
+// MARK: - Buttons
+"button.continue" = "जारी रखें";
+"button.retry" = "फिर से कोशिश करें";
+"button.home" = "होम";
+"button.next" = "अगला";
+"button.submit" = "जमा करें";
+
+// MARK: - Encouragement Messages
+"encouragement.youcanit" = "आप कर सकते हैं!";
+"encouragement.almostthere" = "लगभग हो गया!";
+"encouragement.keepgoing" = "जारी रखें!";
+"encouragement.awesome" = "शानदार!";
+"encouragement.fantastic" = "अद्भुत!";
+"encouragement.amazing" = "कमाल!";
+
+// MARK: - Toddler Game
+"toddler.title" = "जानवरों को गिनें!";
+"toddler.question" = "कितने?";
+"toddler.success" = "🎉 वाह! 🎉";
+
+// MARK: - Game Feedback
+"feedback.correct" = "सही! 🌟";
+"feedback.wrong" = "फिर से कोशिश करें! 😅";
+
+// MARK: - Game UI
+"game.time.label" = "समय";
+
+// MARK: - Appreciation Messages (Streaks)
+"appreciation.streak3" = "लगातार 3! 🔥";
+"appreciation.streak5" = "5 की लकीर! तुम शानदार हो! 🌟";
+"appreciation.streak10" = "10 की लकीर! अविश्वसनीय! 🎯";
+"appreciation.streak15" = "15 की लकीर! तुम स्टार हो! ⭐️";
+"appreciation.streak20" = "20 streak! Unstoppable! 🚀";
+"appreciation.streak_amazing" = "Amazing streak! Keep going! 💫";
+
+// MARK: - Parent Report
+"parent.report.title" = "Parent Report";
+"parent.report.summary" = "Summary";
+"parent.report.no_games" = "No games played yet.";
+"parent.report.total_sessions" = "Total Sessions";
+"parent.report.total_questions" = "Total Questions";
+"parent.report.accuracy" = "Accuracy";
+"parent.report.recent_history" = "Recent History";
+"parent.report.done" = "Done";
+"parent.report.share_title" = "Maths For Kids - Performance Report";
+"parent.report.generated_on" = "Generated on";
+"parent.report.summary_header" = "SUMMARY";
+"parent.report.recent_sessions_header" = "RECENT SESSIONS";
+"parent.report.duration" = "Duration";
+
+// MARK: - Speed Bonus
+"bonus.fast" = "⚡️ Fast! +2";
+
+// MARK: - Session Details
+"parent.report.details" = "Details";
+"parent.report.no_details" = "No details available.";
+"parent.report.correct_answer" = "Correct Answer";
+"parent.report.attempts" = "attempts";
+
+// MARK: - Feedback
+"feedback.subject" = "Maths For Kids - Feedback";
+"feedback.body" = "Please describe your feedback here...";
+"feedback.email_error_title" = "Email Not Configured";
+"feedback.email_error_message" = "Please configure an email account in Settings to send feedback.";
+
+// MARK: - Game Over
+"game.over.perfect" = "Perfect! 🏆";
+"game.over.excellent" = "Excellent! 🌟";
+"game.over.great" = "Great Job! 👏";
+"game.over.good" = "Good Try! 💪";
+"game.over.practice" = "Keep Practicing! 📚";
+"game.over.your_score" = "Your Score";
+"game.over.new_high_score" = "🎉 New High Score! 🎉";
+"game.over.play_again" = "Play Again";
+"game.over.exit" = "Exit";
+
+// MARK: - Score View
+"game.best" = "Best";
+
+// MARK: - General
+"button.ok" = "OK";

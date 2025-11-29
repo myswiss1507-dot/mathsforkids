@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings (Chinese Simplified)
+  Math for Kids - 儿童数学
+*/
+
+// MARK: - App Title & Tagline
+"app.title" = "儿童数学";
+"app.tagline" = "学习 • 玩耍 • 成长";
+
+// MARK: - Welcome Screen
+"welcome.name.title" = "你的名字";
+"welcome.name.placeholder" = "输入你的名字";
+"welcome.gender.title" = "我是...";
+"welcome.age.title" = "我的年龄";
+"welcome.age.years" = "岁";
+"welcome.swipe.hint" = "滑动";
+"welcome.start.button" = "开始学习！";
+
+// MARK: - Gender
+"gender.boy" = "男孩";
+"gender.girl" = "女孩";
+
+// MARK: - Game Levels
+"level.toddler" = "学龄前";
+"level.earlyschool" = "小学低年级";
+"level.olderkids" = "大龄儿童";
+
+// MARK: - Math Operations
+"operation.addition" = "加法";
+"operation.subtraction" = "减法";
+"operation.multiplication" = "乘法";
+"operation.division" = "除法";
+
+// MARK: - Game Play
+"game.question" = "多少是";
+"game.correct" = "正确！";
+"game.wrong" = "再试一次！";
+"game.welldone" = "做得好！";
+"game.excellent" = "太棒了！";
+"game.great" = "很好！";
+"game.score" = "分数";
+"game.streak" = "连胜";
+"game.time" = "时间";
+
+// MARK: - Buttons
+"button.continue" = "继续";
+"button.retry" = "重试";
+"button.home" = "主页";
+"button.next" = "下一个";
+"button.submit" = "提交";
+
+// MARK: - Encouragement Messages
+"encouragement.youcanit" = "你可以的！";
+"encouragement.almostthere" = "快成功了！";
+"encouragement.keepgoing" = "继续加油！";
+"encouragement.awesome" = "真棒！";
+"encouragement.fantastic" = "太好了！";
+"encouragement.amazing" = "了不起！";
+
+// MARK: - Toddler Game
+"toddler.title" = "数动物！";
+"toddler.question" = "有多少？";
+"toddler.success" = "🎉 太棒了！🎉";
+
+// MARK: - Game Feedback
+"feedback.correct" = "正确！🌟";
+"feedback.wrong" = "再试一次！😅";
+
+// MARK: - Game UI
+"game.time.label" = "时间";
+
+// MARK: - Appreciation Messages (Streaks)
+"appreciation.streak3" = "连对3题！🔥";
+"appreciation.streak5" = "连对5题！你太棒了！🌟";
+"appreciation.streak10" = "连对10题！难以置信！🎯";
+"appreciation.streak15" = "连对15题！你是明星！⭐️";
+"appreciation.streak20" = "20 streak! Unstoppable! 🚀";
+"appreciation.streak_amazing" = "Amazing streak! Keep going! 💫";
+
+// MARK: - Parent Report
+"parent.report.title" = "Parent Report";
+"parent.report.summary" = "Summary";
+"parent.report.no_games" = "No games played yet.";
+"parent.report.total_sessions" = "Total Sessions";
+"parent.report.total_questions" = "Total Questions";
+"parent.report.accuracy" = "Accuracy";
+"parent.report.recent_history" = "Recent History";
+"parent.report.done" = "Done";
+"parent.report.share_title" = "Maths For Kids - Performance Report";
+"parent.report.generated_on" = "Generated on";
+"parent.report.summary_header" = "SUMMARY";
+"parent.report.recent_sessions_header" = "RECENT SESSIONS";
+"parent.report.duration" = "Duration";
+
+// MARK: - Speed Bonus
+"bonus.fast" = "⚡️ Fast! +2";
+
+// MARK: - Session Details
+"parent.report.details" = "Details";
+"parent.report.no_details" = "No details available.";
+"parent.report.correct_answer" = "Correct Answer";
+"parent.report.attempts" = "attempts";
+
+// MARK: - Feedback
+"feedback.subject" = "Maths For Kids - Feedback";
+"feedback.body" = "Please describe your feedback here...";
+"feedback.email_error_title" = "Email Not Configured";
+"feedback.email_error_message" = "Please configure an email account in Settings to send feedback.";
+
+// MARK: - Game Over
+"game.over.perfect" = "Perfect! 🏆";
+"game.over.excellent" = "Excellent! 🌟";
+"game.over.great" = "Great Job! 👏";
+"game.over.good" = "Good Try! 💪";
+"game.over.practice" = "Keep Practicing! 📚";
+"game.over.your_score" = "Your Score";
+"game.over.new_high_score" = "🎉 New High Score! 🎉";
+"game.over.play_again" = "Play Again";
+"game.over.exit" = "Exit";
+
+// MARK: - Score View
+"game.best" = "Best";
+
+"button.ok" = "OK";

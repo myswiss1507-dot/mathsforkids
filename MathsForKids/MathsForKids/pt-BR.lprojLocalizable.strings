@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings (Portuguese - Brazil)
+  Math for Kids - Matemática para Crianças
+*/
+
+// MARK: - App Title & Tagline
+"app.title" = "Matemática para Crianças";
+"app.tagline" = "Aprender • Brincar • Crescer";
+
+// MARK: - Welcome Screen
+"welcome.name.title" = "Seu Nome";
+"welcome.name.placeholder" = "Digite seu nome";
+"welcome.gender.title" = "Eu sou...";
+"welcome.age.title" = "Minha Idade";
+"welcome.age.years" = "anos";
+"welcome.swipe.hint" = "Deslizar";
+"welcome.start.button" = "Começar a Aprender!";
+
+// MARK: - Gender
+"gender.boy" = "Menino";
+"gender.girl" = "Menina";
+
+// MARK: - Game Levels
+"level.toddler" = "Pré-escola";
+"level.earlyschool" = "Escola Inicial";
+"level.olderkids" = "Crianças Maiores";
+
+// MARK: - Math Operations
+"operation.addition" = "Adição";
+"operation.subtraction" = "Subtração";
+"operation.multiplication" = "Multiplicação";
+"operation.division" = "Divisão";
+
+// MARK: - Game Play
+"game.question" = "Quanto é";
+"game.correct" = "Correto!";
+"game.wrong" = "Tente Novamente!";
+"game.welldone" = "Muito Bem!";
+"game.excellent" = "Excelente!";
+"game.great" = "Ótimo Trabalho!";
+"game.score" = "Pontuação";
+"game.streak" = "Sequência";
+"game.time" = "Tempo";
+
+// MARK: - Buttons
+"button.continue" = "Continuar";
+"button.retry" = "Tentar Novamente";
+"button.home" = "Início";
+"button.next" = "Próximo";
+"button.submit" = "Enviar";
+
+// MARK: - Encouragement Messages
+"encouragement.youcanit" = "Você consegue!";
+"encouragement.almostthere" = "Quase lá!";
+"encouragement.keepgoing" = "Continue assim!";
+"encouragement.awesome" = "Incrível!";
+"encouragement.fantastic" = "Fantástico!";
+"encouragement.amazing" = "Maravilhoso!";
+
+// MARK: - Toddler Game
+"toddler.title" = "Conte os Animais!";
+"toddler.question" = "Quantos?";
+"toddler.success" = "🎉 Eba! 🎉";
+
+// MARK: - Game Feedback
+"feedback.correct" = "Correto! 🌟";
+"feedback.wrong" = "Tente novamente! 😅";
+
+// MARK: - Game UI
+"game.time.label" = "Tempo";
+
+// MARK: - Appreciation Messages (Streaks)
+"appreciation.streak3" = "3 seguidas! 🔥";
+"appreciation.streak5" = "5 seguidas! Você está pegando fogo! 🌟";
+"appreciation.streak10" = "10 seguidas! Incrível! 🎯";
+"appreciation.streak15" = "15 seguidas! Você é uma estrela! ⭐️";
+"appreciation.streak20" = "20 seguidas! Imparável! 🚀";
+"appreciation.streak_amazing" = "Sequência incrível! Continue! 💫";
+
+// MARK: - Parent Report
+"parent.report.title" = "Relatório dos Pais";
+"parent.report.summary" = "Resumo";
+"parent.report.no_games" = "Nenhum jogo jogado ainda.";
+"parent.report.total_sessions" = "Sessões Totais";
+"parent.report.total_questions" = "Perguntas Totais";
+"parent.report.accuracy" = "Precisão";
+"parent.report.recent_history" = "Histórico Recente";
+"parent.report.done" = "Concluído";
+"parent.report.share_title" = "Matemática para Crianças - Relatório de Desempenho";
+"parent.report.generated_on" = "Gerado em";
+"parent.report.summary_header" = "RESUMO";
+"parent.report.recent_sessions_header" = "SESSÕES RECENTES";
+"parent.report.duration" = "Duração";
+
+// MARK: - Speed Bonus
+"bonus.fast" = "⚡️ Rápido! +2";
+
+// MARK: - Session Details
+"parent.report.details" = "Details";
+"parent.report.no_details" = "No details available.";
+"parent.report.correct_answer" = "Correct Answer";
+"parent.report.attempts" = "attempts";
+
+// MARK: - Feedback
+"feedback.subject" = "Maths For Kids - Feedback";
+"feedback.body" = "Please describe your feedback here...";
+"feedback.email_error_title" = "Email Not Configured";
+"feedback.email_error_message" = "Please configure an email account in Settings to send feedback.";
+
+// MARK: - Game Over
+"game.over.perfect" = "Perfect! 🏆";
+"game.over.excellent" = "Excellent! 🌟";
+"game.over.great" = "Great Job! 👏";
+"game.over.good" = "Good Try! 💪";
+"game.over.practice" = "Keep Practicing! 📚";
+"game.over.your_score" = "Your Score";
+"game.over.new_high_score" = "🎉 New High Score! 🎉";
+"game.over.play_again" = "Play Again";
+"game.over.exit" = "Exit";
+
+// MARK: - Score View
+"game.best" = "Best";
+
+"button.ok" = "OK";

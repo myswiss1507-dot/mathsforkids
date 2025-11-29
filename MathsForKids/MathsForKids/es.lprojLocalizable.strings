@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings (Spanish)
+  Math for Kids - Matemáticas para Niños
+*/
+
+// MARK: - App Title & Tagline
+"app.title" = "Matemáticas para Niños";
+"app.tagline" = "Aprende • Juega • Crece";
+
+// MARK: - Welcome Screen
+"welcome.name.title" = "Tu Nombre";
+"welcome.name.placeholder" = "Escribe tu nombre";
+"welcome.gender.title" = "Yo soy...";
+"welcome.age.title" = "Mi Edad";
+"welcome.age.years" = "años";
+"welcome.swipe.hint" = "Desliza";
+"welcome.start.button" = "¡Empezar a Aprender!";
+
+// MARK: - Gender
+"gender.boy" = "Niño";
+"gender.girl" = "Niña";
+
+// MARK: - Game Levels
+"level.toddler" = "Preescolar";
+"level.earlyschool" = "Primaria Temprana";
+"level.olderkids" = "Niños Mayores";
+
+// MARK: - Math Operations
+"operation.addition" = "Suma";
+"operation.subtraction" = "Resta";
+"operation.multiplication" = "Multiplicación";
+"operation.division" = "División";
+
+// MARK: - Game Play
+"game.question" = "¿Cuánto es";
+"game.correct" = "¡Correcto!";
+"game.wrong" = "¡Inténtalo otra vez!";
+"game.welldone" = "¡Bien Hecho!";
+"game.excellent" = "¡Excelente!";
+"game.great" = "¡Gran Trabajo!";
+"game.score" = "Puntuación";
+"game.streak" = "Racha";
+"game.time" = "Tiempo";
+
+// MARK: - Buttons
+"button.continue" = "Continuar";
+"button.retry" = "Intentar de Nuevo";
+"button.home" = "Inicio";
+"button.next" = "Siguiente";
+"button.submit" = "Enviar";
+
+// MARK: - Encouragement Messages
+"encouragement.youcanit" = "¡Tú puedes!";
+"encouragement.almostthere" = "¡Casi lo logras!";
+"encouragement.keepgoing" = "¡Sigue adelante!";
+"encouragement.awesome" = "¡Increíble!";
+"encouragement.fantastic" = "¡Fantástico!";
+"encouragement.amazing" = "¡Asombroso!";
+
+// MARK: - Toddler Game
+"toddler.title" = "¡Cuenta los Animales!";
+"toddler.question" = "¿Cuántos?";
+"toddler.success" = "🎉 ¡Bien! 🎉";
+
+// MARK: - Game Feedback
+"feedback.correct" = "¡Correcto! 🌟";
+"feedback.wrong" = "¡Inténtalo otra vez! 😅";
+
+// MARK: - Game UI
+"game.time.label" = "Tiempo";
+
+// MARK: - Appreciation Messages (Streaks)
+"appreciation.streak3" = "¡3 seguidas! 🔥";
+"appreciation.streak5" = "¡5 seguidas! ¡Estás en llamas! 🌟";
+"appreciation.streak10" = "¡10 seguidas! ¡Increíble! 🎯";
+"appreciation.streak15" = "¡15 seguidas! ¡Eres una estrella! ⭐️";
+"appreciation.streak20" = "20 streak! Unstoppable! 🚀";
+"appreciation.streak_amazing" = "Amazing streak! Keep going! 💫";
+
+// MARK: - Parent Report
+"parent.report.title" = "Parent Report";
+"parent.report.summary" = "Summary";
+"parent.report.no_games" = "No games played yet.";
+"parent.report.total_sessions" = "Total Sessions";
+"parent.report.total_questions" = "Total Questions";
+"parent.report.accuracy" = "Accuracy";
+"parent.report.recent_history" = "Recent History";
+"parent.report.done" = "Done";
+"parent.report.share_title" = "Maths For Kids - Performance Report";
+"parent.report.generated_on" = "Generated on";
+"parent.report.summary_header" = "SUMMARY";
+"parent.report.recent_sessions_header" = "RECENT SESSIONS";
+"parent.report.duration" = "Duration";
+
+// MARK: - Speed Bonus
+"bonus.fast" = "⚡️ Fast! +2";
+
+// MARK: - Session Details
+"parent.report.details" = "Details";
+"parent.report.no_details" = "No details available.";
+"parent.report.correct_answer" = "Correct Answer";
+"parent.report.attempts" = "attempts";
+
+// MARK: - Feedback
+"feedback.subject" = "Maths For Kids - Feedback";
+"feedback.body" = "Please describe your feedback here...";
+"feedback.email_error_title" = "Email Not Configured";
+"feedback.email_error_message" = "Please configure an email account in Settings to send feedback.";
+
+// MARK: - Game Over
+"game.over.perfect" = "Perfect! 🏆";
+"game.over.excellent" = "Excellent! 🌟";
+"game.over.great" = "Great Job! 👏";
+"game.over.good" = "Good Try! 💪";
+"game.over.practice" = "Keep Practicing! 📚";
+"game.over.your_score" = "Your Score";
+"game.over.new_high_score" = "🎉 New High Score! 🎉";
+"game.over.play_again" = "Play Again";
+"game.over.exit" = "Exit";
+
+// MARK: - Score View
+"game.best" = "Best";
+
+"button.ok" = "OK";
